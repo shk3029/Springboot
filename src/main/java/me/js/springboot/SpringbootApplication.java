@@ -1,6 +1,7 @@
 package me.js.springboot;
 
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -15,7 +16,11 @@ public class SpringbootApplication {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootApplication.class, args);
+        SpringApplication app = new SpringApplication(SpringbootApplication.class);
+        app.addListeners(new StartingListener());
+        //app.setWebApplicationType(WebApplicationType.NONE);
+        //app.setBannerMode(Banner.Mode.OFF);
+        app.run(args);
     }
 
    /* @Bean
@@ -28,6 +33,6 @@ public class SpringbootApplication {
     private Connector createStandardConnector() {
         Connector connector = new Connector("org.apache.coyote.http11.Http11NioProtocol");
         connector.setPort(8080);
-        return connector;
+        return connector;F
     }*/
 }
