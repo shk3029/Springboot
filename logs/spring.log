@@ -1,0 +1,95 @@
+2019-11-02 12:25:13.936  INFO 74394 --- [main] me.js.springboot.SpringbootApplication   : Starting SpringbootApplication on JSui-MacBookPro.local with PID 74394 (/Users/js/IdeaProjects/springboot/target/classes started by js in /Users/js/IdeaProjects/springboot)
+2019-11-02 12:25:13.938 DEBUG 74394 --- [main] me.js.springboot.SpringbootApplication   : Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-02 12:25:13.939  INFO 74394 --- [main] me.js.springboot.SpringbootApplication   : The following profiles are active: prod,proddb
+2019-11-02 12:25:15.514  INFO 74394 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-02 12:25:15.544  INFO 74394 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-02 12:25:15.545  INFO 74394 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-02 12:25:15.631  INFO 74394 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-02 12:25:15.632  INFO 74394 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1646 ms
+2019-11-02 12:25:16.051  INFO 74394 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:25:16.319  INFO 74394 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-02 12:25:16.326  INFO 74394 --- [main] me.js.springboot.SpringbootApplication   : Started SpringbootApplication in 2.833 seconds (JVM running for 4.207)
+2019-11-02 12:25:16.328  INFO 74394 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:25:16.328  INFO 74394 --- [main] me.js.springboot.SampleRunner            : hello
+2019-11-02 12:25:16.335  INFO 74394 --- [main] me.js.springboot.SampleRunner            : dbdbdbd
+2019-11-02 12:25:16.336  INFO 74394 --- [main] me.js.springboot.SampleRunner            : +=======
+2019-11-02 12:25:29.784  INFO 74394 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:25:34.749  INFO 74413 --- [main] me.js.springboot.SpringbootApplication   : Starting SpringbootApplication on JSui-MacBookPro.local with PID 74413 (/Users/js/IdeaProjects/springboot/target/classes started by js in /Users/js/IdeaProjects/springboot)
+2019-11-02 12:25:34.751 DEBUG 74413 --- [main] me.js.springboot.SpringbootApplication   : Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-02 12:25:34.751  INFO 74413 --- [main] me.js.springboot.SpringbootApplication   : The following profiles are active: prod,proddb
+2019-11-02 12:25:35.814  INFO 74413 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-02 12:25:35.840  INFO 74413 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-02 12:25:35.840  INFO 74413 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-02 12:25:35.919  INFO 74413 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-02 12:25:35.919  INFO 74413 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1108 ms
+2019-11-02 12:25:36.235  INFO 74413 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:25:36.369  INFO 74413 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-02 12:25:36.374  INFO 74413 --- [main] me.js.springboot.SpringbootApplication   : Started SpringbootApplication in 2.101 seconds (JVM running for 3.305)
+2019-11-02 12:25:36.375  INFO 74413 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:25:36.375  INFO 74413 --- [main] me.js.springboot.SampleRunner            : hello
+2019-11-02 12:25:36.382  INFO 74413 --- [main] me.js.springboot.SampleRunner            : dbdbdbd
+2019-11-02 12:25:36.382  INFO 74413 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:27:14.714  INFO 74413 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:27:19.461  INFO 74433 --- [main] me.js.springboot.SpringbootApplication   : Starting SpringbootApplication on JSui-MacBookPro.local with PID 74433 (/Users/js/IdeaProjects/springboot/target/classes started by js in /Users/js/IdeaProjects/springboot)
+2019-11-02 12:27:19.463 DEBUG 74433 --- [main] me.js.springboot.SpringbootApplication   : Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-02 12:27:19.464  INFO 74433 --- [main] me.js.springboot.SpringbootApplication   : The following profiles are active: prod,proddb
+2019-11-02 12:27:20.333  INFO 74433 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-02 12:27:20.359  INFO 74433 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-02 12:27:20.360  INFO 74433 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-02 12:27:20.446  INFO 74433 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-02 12:27:20.447  INFO 74433 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 926 ms
+2019-11-02 12:27:20.840  INFO 74433 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:27:20.996  INFO 74433 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-02 12:27:21.001  INFO 74433 --- [main] me.js.springboot.SpringbootApplication   : Started SpringbootApplication in 2.057 seconds (JVM running for 3.728)
+2019-11-02 12:27:21.003  INFO 74433 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:27:21.003  INFO 74433 --- [main] me.js.springboot.SampleRunner            : hello
+2019-11-02 12:27:21.011  INFO 74433 --- [main] me.js.springboot.SampleRunner            : dbdbdbd
+2019-11-02 12:27:21.011  INFO 74433 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:27:39.632  INFO 74433 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:27:45.828  INFO 74440 --- [main] me.js.springboot.SpringbootApplication   : Starting SpringbootApplication on JSui-MacBookPro.local with PID 74440 (/Users/js/IdeaProjects/springboot/target/classes started by js in /Users/js/IdeaProjects/springboot)
+2019-11-02 12:27:45.852 DEBUG 74440 --- [main] me.js.springboot.SpringbootApplication   : Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-02 12:27:45.853  INFO 74440 --- [main] me.js.springboot.SpringbootApplication   : The following profiles are active: prod,proddb
+2019-11-02 12:27:47.033  INFO 74440 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-02 12:27:47.080  INFO 74440 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-02 12:27:47.081  INFO 74440 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-02 12:27:47.167  INFO 74440 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-02 12:27:47.168  INFO 74440 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1263 ms
+2019-11-02 12:27:47.542  INFO 74440 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:27:47.700  INFO 74440 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-02 12:27:47.705  INFO 74440 --- [main] me.js.springboot.SpringbootApplication   : Started SpringbootApplication in 2.679 seconds (JVM running for 4.518)
+2019-11-02 12:27:47.707 DEBUG 74440 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:27:47.707 DEBUG 74440 --- [main] me.js.springboot.SampleRunner            : hello
+2019-11-02 12:27:47.714 DEBUG 74440 --- [main] me.js.springboot.SampleRunner            : dbdbdbd
+2019-11-02 12:27:47.714 DEBUG 74440 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:29:14.162  INFO 74440 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:29:18.326  INFO 74473 --- [main] me.js.springboot.SpringbootApplication   : Starting SpringbootApplication on JSui-MacBookPro.local with PID 74473 (/Users/js/IdeaProjects/springboot/target/classes started by js in /Users/js/IdeaProjects/springboot)
+2019-11-02 12:29:18.330 DEBUG 74473 --- [main] me.js.springboot.SpringbootApplication   : Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-02 12:29:18.330  INFO 74473 --- [main] me.js.springboot.SpringbootApplication   : The following profiles are active: prod,proddb
+2019-11-02 12:29:19.634  INFO 74473 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-02 12:29:19.659  INFO 74473 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-02 12:29:19.660  INFO 74473 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-02 12:29:19.738  INFO 74473 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-02 12:29:19.738  INFO 74473 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1327 ms
+2019-11-02 12:29:20.125  INFO 74473 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:29:20.296  INFO 74473 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-02 12:29:20.302  INFO 74473 --- [main] me.js.springboot.SpringbootApplication   : Started SpringbootApplication in 2.674 seconds (JVM running for 3.951)
+2019-11-02 12:29:20.304 DEBUG 74473 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:29:20.304 DEBUG 74473 --- [main] me.js.springboot.SampleRunner            : hello
+2019-11-02 12:29:20.312 DEBUG 74473 --- [main] me.js.springboot.SampleRunner            : dbdbdbd
+2019-11-02 12:29:20.312 DEBUG 74473 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:29:27.600  INFO 74473 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:29:29.934  INFO 74476 --- [main] me.js.springboot.SpringbootApplication   : Starting SpringbootApplication on JSui-MacBookPro.local with PID 74476 (/Users/js/IdeaProjects/springboot/target/classes started by js in /Users/js/IdeaProjects/springboot)
+2019-11-02 12:29:29.936 DEBUG 74476 --- [main] me.js.springboot.SpringbootApplication   : Running with Spring Boot v2.1.9.RELEASE, Spring v5.1.10.RELEASE
+2019-11-02 12:29:29.936  INFO 74476 --- [main] me.js.springboot.SpringbootApplication   : The following profiles are active: prod,proddb
+2019-11-02 12:29:30.902  INFO 74476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-11-02 12:29:30.920  INFO 74476 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-11-02 12:29:30.920  INFO 74476 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-11-02 12:29:30.967  INFO 74476 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-11-02 12:29:30.968  INFO 74476 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 973 ms
+2019-11-02 12:29:31.252  INFO 74476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-02 12:29:31.370  INFO 74476 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-11-02 12:29:31.375  INFO 74476 --- [main] me.js.springboot.SpringbootApplication   : Started SpringbootApplication in 1.919 seconds (JVM running for 2.999)
+2019-11-02 12:29:31.377 DEBUG 74476 --- [main] me.js.springboot.SampleRunner            : =========
+2019-11-02 12:29:31.377 DEBUG 74476 --- [main] me.js.springboot.SampleRunner            : hello
+2019-11-02 12:29:31.385 DEBUG 74476 --- [main] me.js.springboot.SampleRunner            : dbdbdbd
+2019-11-02 12:29:31.386 DEBUG 74476 --- [main] me.js.springboot.SampleRunner            : =========
